@@ -6,6 +6,7 @@ The piece of code [SerializeField] will make a space where the code is in the Ga
 
 In Code:
 ![[Pasted image 20230831113051.png]]
+
 In Unity:
 ![[Pasted image 20230831113119.png]]
 

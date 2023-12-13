@@ -2,6 +2,8 @@
 tags:
   - Code
 ---
+This is a note for quick setup of movement in a side-view 2D game, it uses many [[Functions]] & includes many variables 
+
 NOTE: Game Object with this script must have the following:
 	- Box Collider 2D
 		- Material - No friction material

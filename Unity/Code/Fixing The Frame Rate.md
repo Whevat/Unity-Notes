@@ -17,4 +17,4 @@ HOWEVER sometimes when a certain part of code needs to be affixed to time time.d
 
 ![[Pasted image 20230911114443.png]]
 
-You also can easily change the frame rate during game play/testing by serialising it or by making it a variable. How to accomplish this can be found in [[Serialising Fields]] & [[Making Variables]] or you could use a variable from another script & just use the variable for multiple things, although the variable would have to be a integer & be a rather high number, but those directions can be found here; [[Using Variables from other Scripts]]. 
+You also can easily change the frame rate during game play/testing by serialising it or by making it a variable. How to accomplish this can be found in [[Serialising Fields]] & [[Variables]] or you could use a variable from another script & just use the variable for multiple things, although the variable would have to be a integer & be a rather high number, but those directions can be found here; [[Using Variables from other Scripts]]. 

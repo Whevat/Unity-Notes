@@ -13,6 +13,7 @@ Now in my game when your car loses all of it's integrity (health) it quits the g
 {
 	Application.Quit();
 }]
+
 ![[Pasted image 20231006110402.png]]
 
 So now once the Car is destroyed the game will quit to desktop.
