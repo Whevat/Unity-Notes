@@ -16,3 +16,5 @@ The coding aspect of velocities is quite easy, however you will have to get the 
 
 **Diagram**;
 ![[Pasted image 20231019111123.png]]
+
+Oh, another thing. If you want to stop an object entirely you can use Vector2.zero, which just sets the objects velocity to zero, however do keep things like gravity n' stuff in mind.
